@@ -4,31 +4,39 @@
 
 ### `Full Stack Developer in Progress`
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Web+Developer;Java+%7C+MySQL+%7C+Frontend;Building+StudyIn;UI%2FUX+Enthusiast" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Web+Developer;Java+%7C+Spring+Boot;UI%2FUX+Designer;Building+StudyIn;Frontend+%2B+Backend+Developer" />
 
 </div>
 
 ---
 
+<div align="left">
+
+<pre>
 const luiz = {
-    location: "Brazil 🇧🇷",
-    education: "Senac Tatuapé",
-    focus: [
-        "Full Stack Development",
-        "UI/UX Design",
-        "Web Applications"
-    ],
-    currentlyBuilding: "StudyIn",
-    technologies: [
-        "Java",
-        "Spring Boot",
-        "MySQL",
-        "JavaScript",
-        "HTML",
-        "CSS"
-    ]
+   location: "Brazil 🇧🇷",
+   education: "Senac Tatuapé",
+   
+   focus: [
+      "Full Stack Development",
+      "UI/UX Design",
+      "Web Applications"
+   ],
+
+   currentlyBuilding: "StudyIn",
+
+   technologies: [
+      "Java",
+      "Spring Boot",
+      "MySQL",
+      "JavaScript",
+      "HTML",
+      "CSS"
+   ]
 }
-```
+</pre>
+
+</div>
 
 ---
 
@@ -46,7 +54,7 @@ const luiz = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,html,css,js,mysql,git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,git,github,vscode,figma" />
 
 </div>
 
@@ -96,6 +104,14 @@ A modern platform focused on organization, discipline and study productivity.
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=midnight-purple&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=midnight-purple&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEUUSUARIO&theme=midnight-purple&hide_border=true"/>
 
 </div>
 
