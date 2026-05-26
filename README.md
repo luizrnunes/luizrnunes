@@ -4,7 +4,7 @@
 # 𝙇𝙪𝙞𝙯 𝙃𝙚𝙣𝙧𝙞𝙦𝙪𝙚 ✦
 ### `Full Stack Developer in Progress`
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Java+Developer;Spring+Boot+%7C+MySQL;UI%2FUX+Designer;Building+StudyIn;Cyber+Y2K+Style" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Java+Developer;Spring+Boot+%7C+MySQL;UI%2FUX+Designer;Building+StudyIn" />
 
 </div>
 
