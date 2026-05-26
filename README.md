@@ -1,52 +1,38 @@
+````md
 <div align="center">
 
 # 𝙇𝙪𝙞𝙯 𝙃𝙚𝙣𝙧𝙞𝙦𝙪𝙚 ✦
-
 ### `Full Stack Developer in Progress`
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Web+Developer;Java+%7C+Spring+Boot;UI%2FUX+Designer;Building+StudyIn;Frontend+%2B+Backend+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Java+Developer;Spring+Boot+%7C+MySQL;UI%2FUX+Designer;Building+StudyIn;Cyber+Y2K+Style" />
 
 </div>
 
 ---
 
-<div align="left">
+<div align="center">
 
-<pre>
-const luiz = {
-   location: "Brazil 🇧🇷",
-   education: "Senac Tatuapé",
-   
-   focus: [
-      "Full Stack Development",
-      "UI/UX Design",
-      "Web Applications"
-   ],
-
-   currentlyBuilding: "StudyIn",
-
-   technologies: [
-      "Java",
-      "Spring Boot",
-      "MySQL",
-      "JavaScript",
-      "HTML",
-      "CSS"
-   ]
-}
-</pre>
+| 💫 PROFILE | ⚡ CURRENT FOCUS | 🚀 MAIN PROJECT |
+|:---:|:---:|:---:|
+| `Full Stack Dev` | `UI/UX + Backend` | `StudyIn Platform` |
 
 </div>
 
 ---
 
-# ✦ About Me
+# ✦ Cyber Deck
 
-> 💻 Information Technology Student
-> 🚀 Passionate about modern interfaces and web development
-> 🎨 Focused on UI/UX and futuristic experiences
-> 🔥 Building productive and intuitive systems
-> 🌌 Inspired by Y2K and modern digital aesthetics
+<div align="center">
+
+| 💻 SYSTEM | 🌌 STATUS | 🧠 SPECIALTY |
+|:---:|:---:|:---:|
+| `Brazil 🇧🇷` | `Online` | `Web Development` |
+
+| ⚙️ STACK | 🎨 DESIGN | 🔥 GOAL |
+|:---:|:---:|:---:|
+| `Java + JS` | `Cyber/Y2K UI` | `Become Full Stack` |
+
+</div>
 
 ---
 
@@ -62,22 +48,26 @@ const luiz = {
 
 # 🚀 Featured Project
 
-## 📚 StudyIn — Productivity & Study Platform
+<div align="center">
 
-A modern platform focused on organization, discipline and study productivity.
+## 📚 StudyIn
 
-### ✨ Features
+### Productivity & Study Management Platform
 
-* ✔️ Task Management
-* ✔️ Study Timer (Pomodoro)
-* ✔️ Reading Tracker
-* ✔️ Personal Ranking System
-* ✔️ Productivity Dashboard
-* ✔️ Study Methods Area
+</div>
+
+```txt
+✔️ Task Management
+✔️ Study Timer (Pomodoro)
+✔️ Reading Tracker
+✔️ Productivity Dashboard
+✔️ Personal Ranking System
+✔️ Study Methods Area
+````
 
 ---
 
-# 🌐 Connect With Me
+# 🌐 Network
 
 <div align="center">
 
@@ -119,7 +109,7 @@ A modern platform focused on organization, discipline and study productivity.
 
 <div align="center">
 
-### ✦ “Creating modern experiences through code.” ✦
+### ✦ “Creating futuristic experiences through code.” ✦
 
 </div>
-
+```
