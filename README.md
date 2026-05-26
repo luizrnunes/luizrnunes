@@ -10,7 +10,7 @@
 
 ---
 
-```javascript
+
 const luiz = {
     location: "Brazil 🇧🇷",
     education: "Senac Tatuapé",
@@ -29,7 +29,7 @@ const luiz = {
         "CSS"
     ]
 }
-````
+
 
 ---
 
