@@ -71,7 +71,7 @@
 
 <div align="center">
 
-<a href="https://github.com/SEUUSUARIO">
+<a href="https://github.com/luizrnunes">
 <img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=8A2BE2"/>
 </a>
 
@@ -79,7 +79,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=8A2BE2"/>
 </a>
 
-<a href="https://instagram.com/SEUUSUARIO">
+<a href="https://www.instagram.com/yluiz.henrique/">
 <img src="https://img.shields.io/badge/Instagram-0D0D0D?style=for-the-badge&logo=instagram&logoColor=8A2BE2"/>
 </a>
 
